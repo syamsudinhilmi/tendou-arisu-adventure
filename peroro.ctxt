@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=peroro
+comment1.params=mainPlayer\ Counter
+comment1.target=peroro(alice,\ counter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ hitByBullet()
+numComments=5

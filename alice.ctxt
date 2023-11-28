@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=alice
+comment1.params=
+comment1.target=alice()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ jatuh()
+comment5.params=
+comment5.target=void\ lompat()
+comment6.params=
+comment6.target=boolean\ hitByPeroro()
+comment7.params=
+comment7.target=void\ yuzuBoss()
+numComments=8
